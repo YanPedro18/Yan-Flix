@@ -1,0 +1,30 @@
+[
+
+    {
+        "name": "Altered Carbon",
+        "imagens": "../img/altered-carbon.jpg",
+        "id": 0
+    },
+    {
+        "name": "Herança",
+        "imagens": "../img/heranca.jpg",
+        "id": 0
+    },
+    {
+        "name": "Projeto Adam",
+        "imagens": "../img/project-adam.png",
+        "id": 0
+    },
+    {
+        "name": "Jung_e",
+        "imagens": "../img/jungle.png",
+        "id": 0
+    },
+    {
+        "name": "Um lugar silencioso",
+        "imagens": "../img/um-lugar-silencioso.jpg",
+        "id": 0
+    }
+    
+
+]
